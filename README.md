@@ -90,15 +90,15 @@ The CSV files to be uploaded to the system must contain the following minimum co
 
 This project was developed with a focus on telematics data analysis and driving safety:
 
-* **Burak Sıkı** — [GitHub](https://github.com/buraksk511?utm_source=gemini) • [LinkedIn](https://www.linkedin.com/in/burak-siki/?utm_source=gemini)
+* **Burak Sıkı** — [GitHub](https://github.com/buraksk511) • [LinkedIn](https://www.linkedin.com/in/burak-siki/)
 * *Algorithm Design and API Integration:* Core signal processing architecture (SciPy/Butterworth filtering), TomTom API connections, and foundational rule violation detection algorithms.
 
 
-* **Özberk Harman** — [GitHub](https://github.com/ozberkko?utm_source=gemini) • [LinkedIn](https://www.linkedin.com/in/%C3%B6zberk-harman/?utm_source=gemini)
+* **Özberk Harman** — [GitHub](https://github.com/ozberkko) • [LinkedIn](https://www.linkedin.com/in/%C3%B6zberk-harman/)
 * *Data Engineering, Algorithm Optimization, and UI:* ESP32 telemetry data preprocessing/type conversion pipeline, accident verification and dynamic scoring engine, Streamlit SaaS dashboard (interactive Folium/Plotly), SQLite data layer, and Gemini AI integration.
 
 
-* **Mücahid Eren Karaman** — [GitHub](https://github.com/MucahidErenKaraman?utm_source=gemini) • [LinkedIn](https://www.linkedin.com/in/m%C3%BCcahid-eren-karaman-20b876332/?utm_source=gemini)
+* **Mücahid Eren Karaman** — [GitHub](https://github.com/MucahidErenKaraman) • [LinkedIn](https://www.linkedin.com/in/m%C3%BCcahid-eren-karaman-20b876332/)
 * *Sensor Hardware and IoT Integration:* ESP32 microcontroller, MPU6050 accelerometer/gyroscope, and GPS module circuit design alongside the data collection infrastructure.
 
 
@@ -205,15 +205,15 @@ Sisteme yüklenecek CSV dosyalarında bulunması gereken asgari sütunlar:
 
 Bu proje, telematik veri analizi ve sürüş güvenliği odağında geliştirilmiştir:
 
-* **Burak Sıkı** — [GitHub](https://github.com/buraksk511?utm_source=gemini) • [LinkedIn](https://www.linkedin.com/in/burak-siki/?utm_source=gemini)
+* **Burak Sıkı** — [GitHub](https://github.com/buraksk511) • [LinkedIn](https://www.linkedin.com/in/burak-siki/)
 * *Algoritma Tasarımı ve API Entegrasyonu:* Temel sinyal işleme mimarisi (SciPy/Butterworth filtreleme), TomTom API bağlantıları ve temel kural ihlali tespit algoritmaları.
 
 
-* **Özberk Harman** — [GitHub](https://github.com/ozberkko?utm_source=gemini) • [LinkedIn](https://www.linkedin.com/in/%C3%B6zberk-harman/?utm_source=gemini)
+* **Özberk Harman** — [GitHub](https://github.com/ozberkko) • [LinkedIn](https://www.linkedin.com/in/%C3%B6zberk-harman/)
 * *Veri Mühendisliği, Algoritma Optimizasyonu ve Arayüz:* ESP32 telemetri verisi ön işleme/tip dönüşüm boru hattı, kaza doğrulama ve dinamik puanlama motoru, Streamlit SaaS paneli (interaktif Folium/Plotly), SQLite veri katmanı ve Gemini AI entegrasyonu.
 
 
-* **Mücahid Eren Karaman** — [GitHub](https://github.com/MucahidErenKaraman?utm_source=gemini) • [LinkedIn](https://www.linkedin.com/in/m%C3%BCcahid-eren-karaman-20b876332/?utm_source=gemini)
+* **Mücahid Eren Karaman** — [GitHub](https://github.com/MucahidErenKaraman) • [LinkedIn](https://www.linkedin.com/in/m%C3%BCcahid-eren-karaman-20b876332/)
 * *Sensör Donanımı ve IoT Entegrasyonu:* ESP32 mikrodenetleyici, MPU6050 ivmeölçer/jiroskop ve GPS modülü devre tasarımı ile veri toplama altyapısı.
 
 
