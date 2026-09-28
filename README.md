@@ -1,7 +1,7 @@
 
 # 🚗 DriveSense — Telematics & AI-Powered Driving Analytics
 
-DriveSense, araç telemetri verilerini (İvmeölçer, Jiroskop, GPS) işleyerek sürüş davranışlarını analiz eden, trafik kuralları ihlallerini tespit eden ve üretken yapay zekâ (Google Gemini) ile kişiselleştirilmiş sürücü koçluğu sunan yeni nesil bir telematik analiz platformudur.
+DriveSense, araç telemetri verilerini (İvmeölçer, Jiroskop, GPS) işleyerek sürüş davranışlarını analiz eden, trafik kuralları ihlallerini tespit eden ve üretken yapay zekâ ile kişiselleştirilmiş sürücü koçluğu sunan yeni nesil bir telematik analiz platformudur.
 
 ## 📌 Temel Özellikler
 
@@ -30,7 +30,7 @@ DriveSense, araç telemetri verilerini (İvmeölçer, Jiroskop, GPS) işleyerek 
 
 ### 1. Depoyu Klonlayın
 ```bash
-git clone [https://github.com/KULLANICI_ADINIZ/DriveSense.git](https://github.com/KULLANICI_ADINIZ/DriveSense.git)
+git clone [https://github.com/buraksk511/DriveSense.git](https://github.com/buraksk511/DriveSense.git)
 cd DriveSense
 
 ```
@@ -88,9 +88,12 @@ Sisteme yüklenecek CSV dosyalarında bulunması gereken asgari sütunlar:
 
 Bu proje, telematik veri analizi ve sürüş güvenliği odağında geliştirilmiştir:
 
-* **Özberk Harman** — [GitHub](https://github.com/ozberkko) • [LinkedIn](www.linkedin.com/in/özberk-harman)
 * **Burak Sıkı** — [GitHub](https://github.com/buraksk511) • [LinkedIn](https://www.linkedin.com/in/burak-siki/)
-* **Mücahid Eren Karaman** — [GitHub](https://www.linkedin.com/in/m%C3%BCcahid-eren-karaman-20b876332/) • [LinkedIn](https://github.com/MucahidErenKaraman)
+* Algoritma Tasarımı ve API Entegrasyonu: Temel sinyal işleme mimarisi (SciPy/Butterworth filtreleme), TomTom API bağlantıları ve temel kural ihlali tespit algoritmaları.
+* **Özberk Harman** — [GitHub](https://github.com/ozberkko) • [LinkedIn](https://www.linkedin.com/in/%C3%B6zberk-harman/)
+* Veri Mühendisliği, Algoritma Optimizasyonu ve Arayüz: ESP32 telemetri verisi ön işleme/tip dönüşüm boru hattı, kaza doğrulama ve dinamik puanlama motoru, Streamlit SaaS paneli (interaktif Folium/Plotly), SQLite veri katmanı ve Gemini AI entegrasyonu.
+* **Mücahid Eren Karaman** — [GitHub](https://github.com/MucahidErenKaraman) • [LinkedIn](https://www.linkedin.com/in/m%C3%BCcahid-eren-karaman-20b876332/)
+* Sensör Donanımı ve IoT Entegrasyonu: ESP32 mikrodenetleyici, MPU6050 ivmeölçer/jiroskop ve GPS modülü devre tasarımı ile veri toplama altyapısı.
 
 ## 📄 Yasal Uyarı ve Telif Hakkı (Copyright)
 
