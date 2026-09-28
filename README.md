@@ -36,9 +36,6 @@ Upload the three CSV files from `data/sample/` to try it.
 
 \## Team
 
-\- Burak Sıkı — Python backend: signal processing, event detection, scoring, TomTom integration
-
-\- Özberk Harman — Streamlit interface
-
-\- Mücahid Eren Karaman — sensor hardware
-
+- **Burak Sıkı** — Python backend: sensor signal processing (Butterworth filtering, SciPy peak detection), harsh-event detection, crash detection, scoring engine, TomTom speed-limit integration
+- **Özberk Harman** — Streamlit application and backend integration: dashboard layout and navigation, CSV upload flow, driving-summary metrics, interactive Folium map and Plotly charts, SQLite trip history (save, rename, delete), Gemini-powered driving feedback
+- **Mücahid Eren Karaman** — Sensor hardware: ESP32, MPU6050 accelerometer/gyroscope, GPS module
