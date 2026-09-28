@@ -1,4 +1,4 @@
-```markdown
+
 # 🚗 DriveSense — Telematics & AI-Powered Driving Analytics
 
 DriveSense, araç telemetri verilerini (İvmeölçer, Jiroskop, GPS) işleyerek sürüş davranışlarını analiz eden, trafik kuralları ihlallerini tespit eden ve üretken yapay zekâ (Google Gemini) ile kişiselleştirilmiş sürücü koçluğu sunan yeni nesil bir telematik analiz platformudur.
@@ -98,6 +98,3 @@ Copyright (c) 2026 Özberk Harman, Burak Sıkı, Mücahid Eren Karaman. All righ
 
 Bu projenin kaynak kodları yalnızca portfolyo sergileme, akademik inceleme ve eğitim amacıyla GitHub üzerinde herkese açık (public) olarak paylaşılmıştır. Kodların izinsiz kopyalanması, değiştirilmesi, başka projelere entegre edilmesi veya herhangi bir ticari amaçla kullanılması kesinlikle yasaktır. Her türlü kullanım veya iş birliği için geliştirici ekiple iletişime geçilerek yazılı izin alınması gerekmektedir.
 
-```
-
-```
