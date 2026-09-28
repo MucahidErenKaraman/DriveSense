@@ -90,7 +90,7 @@ Bu proje, telematik veri analizi ve sürüş güvenliği odağında geliştirilm
 
 * **Özberk Harman** — [GitHub](https://github.com/ozberkko) • [LinkedIn](www.linkedin.com/in/özberk-harman)
 * **Burak Sıkı** — [GitHub](https://github.com/buraksk511) • [LinkedIn](https://www.linkedin.com/in/burak-siki/)
-* **Mücahid Eren Karaman** — [GitHub](https://www.google.com/search?q=URL_BURAYA&utm_source=gemini) • [LinkedIn](https://www.linkedin.com/in/m%C3%BCcahid-eren-karaman-20b876332/)
+* **Mücahid Eren Karaman** — [GitHub](https://www.linkedin.com/in/m%C3%BCcahid-eren-karaman-20b876332/) • [LinkedIn](https://github.com/MucahidErenKaraman)
 
 ## 📄 Yasal Uyarı ve Telif Hakkı (Copyright)
 
