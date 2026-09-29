@@ -34,7 +34,8 @@ DriveSense is a next-generation telematics analytics platform that processes veh
 
 <img width="1920" height="278" alt="Ekran Görüntüsü (10)" src="https://github.com/user-attachments/assets/e56965d3-16ab-447e-a771-99c9f2c4588d" />
 
-<img width="1920" height="1080" alt="Ekran Görüntüsü (11)" src="https://github.com/user-attachments/assets/4ac6f789-b8a0-4097-a00d-b524e13da6c3" />
+<img width="1426" height="690" alt="WhatsApp Image 2026-09-03 at 20 38 34 (2)" src="https://github.com/user-attachments/assets/6da567f1-7aba-4c0c-bffb-88ac23484292" />
+
 ## 🛠️ Architecture and Technologies
 
 - **UI Framework:** Streamlit
