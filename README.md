@@ -1,6 +1,9 @@
 
 # 🚗 DriveSense — Smart Telematics & Driving Analytics
 
+<img width="1920" height="1080" alt="kapak" src="https://github.com/user-attachments/assets/89437838-690b-4241-a126-22ee1b6d5025" />
+
+
 *(🇹🇷 Türkçe versiyon için aşağı kaydırın / Scroll down for the Turkish version)*
 
 DriveSense is a next-generation telematics analytics platform that processes vehicle telemetry data (Accelerometer, Gyroscope, GPS) to analyze driving behavior, detect traffic violations, and provide personalized driver coaching using generative AI.
@@ -13,11 +16,25 @@ DriveSense is a next-generation telematics analytics platform that processes veh
   - 🛑 **Hard Braking:** Detection of sudden negative acceleration peaks on the Y-axis.
   - 🚀 **Sudden Acceleration / Launch:** Detection of sudden positive acceleration spikes on the Y-axis.
   - 🔄 **Dangerous Hard Cornering / Maneuvering:** Detection of centrifugal acceleration on the X-axis.
+
+<img width="1920" height="1080" alt="Ekran Görüntüsü (12)" src="https://github.com/user-attachments/assets/b78099b5-b648-49f6-83b4-189d0e58e7e7" />
+
+ 
 - **💥 Smart Accident & Collision Verification:** A verification mechanism that checks if the vehicle remains stationary after a severe impact, effectively eliminating false alarms caused by speed bumps and potholes.
 - **TomTom Dynamic Speed Limit Integration:** Matches GPS coordinates using the TomTom Reverse Geocoding API to fetch the legal speed limits of the route in real-time, applying dynamic point deductions based on traffic penalty tiers.
 - **Interactive Telemetry Map:** Displays the driving route and all detected violations on a Folium map with layer-based filtering capabilities (LayerControl).
+
+<img width="1920" height="1080" alt="Ekran Görüntüsü (9)" src="https://github.com/user-attachments/assets/1b0bf4f4-11b1-4580-8cf7-42c3b867fe07" />
+
 - **Robotic Driving Coach (Gemini AI):** Feeds driving statistics into the Gemini AI model to generate a personalized and professional safety feedback report for the driver.
+
+<img width="1920" height="384" alt="Ekran Görüntüsü (8)" src="https://github.com/user-attachments/assets/250d6102-3ce2-43fe-a930-40c25f10177c" />
+
 - **Local Database & Session Replay:** Stores past driving sessions by name using SQLite infrastructure, allowing users to reload and re-analyze previous trips.
+
+<img width="1920" height="278" alt="Ekran Görüntüsü (10)" src="https://github.com/user-attachments/assets/e56965d3-16ab-447e-a771-99c9f2c4588d" />
+
+<img width="1920" height="1080" alt="Ekran Görüntüsü (11)" src="https://github.com/user-attachments/assets/4ac6f789-b8a0-4097-a00d-b524e13da6c3" />
 
 ## 🛠️ Architecture and Technologies
 
