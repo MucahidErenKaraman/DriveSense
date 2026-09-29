@@ -251,7 +251,3 @@ Bu proje, telematik veri analizi ve sürüş güvenliği odağında geliştirilm
 Copyright (c) 2026 Özberk Harman, Burak Sıkı, Mücahid Eren Karaman. All rights reserved.
 
 Bu projenin kaynak kodları yalnızca portfolyo sergileme, akademik inceleme ve eğitim amacıyla GitHub üzerinde herkese açık (public) olarak paylaşılmıştır. Kodların izinsiz kopyalanması, değiştirilmesi, başka projelere entegre edilmesi veya herhangi bir ticari amaçla kullanılması kesinlikle yasaktır. Her türlü kullanım veya iş birliği için geliştirici ekiple iletişime geçilerek yazılı izin alınması gerekmektedir.
-
-```
-
-```
