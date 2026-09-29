@@ -26,7 +26,7 @@ DriveSense is a next-generation telematics analytics platform that processes veh
 
 <img width="1920" height="1080" alt="Ekran Görüntüsü (9)" src="https://github.com/user-attachments/assets/1b0bf4f4-11b1-4580-8cf7-42c3b867fe07" />
 
-- **Robotic Driving Coach (Gemini AI):** Feeds driving statistics into the Gemini AI model to generate a personalized and professional safety feedback report for the driver.
+- **Robotic Driving Coach:** Feeds driving statistics into the Gemini AI model to generate a personalized and professional safety feedback report for the driver.
 
 <img width="1920" height="384" alt="Ekran Görüntüsü (8)" src="https://github.com/user-attachments/assets/250d6102-3ce2-43fe-a930-40c25f10177c" />
 
@@ -35,7 +35,6 @@ DriveSense is a next-generation telematics analytics platform that processes veh
 <img width="1920" height="278" alt="Ekran Görüntüsü (10)" src="https://github.com/user-attachments/assets/e56965d3-16ab-447e-a771-99c9f2c4588d" />
 
 <img width="1920" height="1080" alt="Ekran Görüntüsü (11)" src="https://github.com/user-attachments/assets/4ac6f789-b8a0-4097-a00d-b524e13da6c3" />
-
 ## 🛠️ Architecture and Technologies
 
 - **UI Framework:** Streamlit
@@ -132,6 +131,8 @@ The source code of this project is published publicly on GitHub solely for portf
 
 # 🚗 DriveSense — Smart Telematics & Driving Analytics (Türkçe Versiyon)
 
+<img width="1856" height="1044" alt="Drive For Safety" src="https://github.com/user-attachments/assets/6391cc43-67e1-40e9-8c88-448fb8f5dc61" />
+
 DriveSense, araç telemetri verilerini (İvmeölçer, Jiroskop, GPS) işleyerek sürüş davranışlarını analiz eden, trafik kuralları ihlallerini tespit eden ve üretken yapay zekâ (Google Gemini) ile kişiselleştirilmiş sürücü koçluğu sunan yeni nesil bir telematik analiz platformudur.
 
 ## 📌 Temel Özellikler
@@ -142,13 +143,22 @@ DriveSense, araç telemetri verilerini (İvmeölçer, Jiroskop, GPS) işleyerek 
 * 🛑 **Sert Fren:** Y eksenindeki ani negatif ivme zirvelerinin tespiti.
 * 🚀 **Ani Hızlanma / Kalkış:** Y eksenindeki ani pozitif ivme sıçramalarının tespiti.
 * 🔄 **Tehlikeli Sert Viraj / Manevra:** X eksenindeki merkezkaç ivmesinin tespiti.
-
+<img width="1600" height="717" alt="WhatsApp Image 2026-09-03 at 20 38 34 (3)" src="https://github.com/user-attachments/assets/cda99dfb-f716-4bb0-8418-63c74bde1390" />
 
 * **💥 Akıllı Kaza & Çarpışma Doğrulaması:** Şiddetli darbe sonrası aracın hareketsiz kalıp kalmadığını denetleyen, kasis ve çukurlardan kaynaklı sahte alarmları eleyen doğrulama mekanizması.
 * **TomTom Dinamik Hız Limiti Entegrasyonu:** GPS koordinatlarını TomTom Reverse Geocoding API ile eşleyerek güzergâhın yasal hız sınırlarını çeker ve idari ceza kademelerine göre dinamik puan kesintisi uygular.
 * **İnteraktif Telemetri Haritası:** Sürüş rotasını ve tespit edilen tüm ihlalleri Folium üzerinde katman bazlı filtreleme (LayerControl) imkanıyla sunar.
-* **Robotik Sürüş Koçu (Gemini AI):** Sürüş istatistiklerini Gemini modeline aktararak sürücüye özel profesyonel geri bildirim raporu üretir.
+
+  <img width="1270" height="750" alt="WhatsApp Image 2026-09-03 at 20 48 17" src="https://github.com/user-attachments/assets/3eb5cd3a-f5ab-4f7f-bcb0-546b405fb4ab" />
+
+* **Robotik Sürüş Koçu:** Sürüş istatistiklerini Gemini modeline aktararak sürücüye özel profesyonel geri bildirim raporu üretir.
+
+<img width="1322" height="307" alt="WhatsApp Image 2026-09-03 at 20 38 34 (1)" src="https://github.com/user-attachments/assets/8cb920e5-be9d-493e-8c6b-15bb31fbdc26" />
+
 * **Yerel Veritabanı & Tekrar Oynatma:** SQLite altyapısıyla geçmiş sürüşleri isim bazlı saklar ve oturumları yeniden analiz etme olanağı tanır.
+
+<img width="1456" height="348" alt="WhatsApp Image 2026-09-03 at 20 38 34" src="https://github.com/user-attachments/assets/6ddd0998-043e-4001-94f3-4bfa4f7633b1" />
+<img width="1426" height="690" alt="WhatsApp Image 2026-09-03 at 20 38 34 (2)" src="https://github.com/user-attachments/assets/50ff724f-f426-49f9-89d2-c249fc84df03" />
 
 ## 🛠️ Mimari ve Teknolojiler
 
